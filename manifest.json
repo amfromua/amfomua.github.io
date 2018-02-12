@@ -1,0 +1,17 @@
+{
+    "name": "vue-todo-list-with-vuetify-master",
+    "short_name": "vue-todo-list",
+    "lang": "ru",
+    "start_url": "/http://localhost:8080/",
+    "display": "standalone",
+    "theme_color": "#2c3e50",
+    "background_color": "#2c3e50",
+    "icons": [
+      {
+        "src": "./src/assets/logo.png",
+        "sizes": "200x200",
+        "type": "png"
+      }
+
+    ]
+  }
